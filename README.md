@@ -17,7 +17,7 @@ Repository นี้เป็นส่วนหนึ่งของวิชา
 เนื้อหาทั้งหมด เป็นแลปของรายวิชา Microcontroller Application And Development ที่มีการใช้งาน
 STM32 Cube IDE กับ Nucleo-F767ZI Board โดยเนื้อหาของแลปประกอบไปด้วย
 - **Lab 1** LED
-- **Lab 2** GPIO
+- **Lab 2** GPIO 
 - **Lab 3** UART/USART TRANSMISSION
 - **Lab 4** NVIC
 - **Lab 5** ADC
